@@ -1,9 +1,9 @@
 # FPGA
 ## What is an FPGA? FPGA nedir 
-### Field -Alan
-### Programmable- Programlanabilir
-### Gates-Kapılar(Mantık Kapıları-Boolean Fonksiyonları)
-### Array -Dizi
+### *Field -Alan* 
+### *Programmable- Programlanabilir*
+### *Gates-Kapılar(Mantık Kapıları-Boolean Fonksiyonları)*
+### *Array -Dizi* 
 #### Çevirmek gerekirse Programlanabilir Mantık Kapıları Dizilerinden oluşan Alana sahip entegre(birleşik) devrelerdir. 
 ##### Programlabilir demek,istediğimiz fonksiyonu(boolean) istediğimizle değiştirebileceğimiz anlamına ,onu programlayabileceğimiz,editleyebileceğimiz ve istediğimizi kaldırabileceğimiz anlamına gelir. 
 ##### Boolean Fonksiyonları nedir derseniz Girişler(Inputs) ve Çıkışları (Outputs) "1" ya da "0" değeri yani  ya hep ya hiç ya da True -False değeri alan fonksiyonlardır örnek olarak AND,OR ,NAND(NOT AND) ,NOR(Not OR) vb. verilebilir. 
