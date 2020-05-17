@@ -4,7 +4,7 @@
 ### *Programmable- Programlanabilir*
 ### *Gates-Kapılar(Mantık Kapıları-Boolean Fonksiyonları)*
 ### *Array -Dizi* 
-#### Çevirmek gerekirse Programlanabilir Mantık Kapıları Dizilerinden oluşan Alana sahip entegre(birleşik) devrelerdir. 
+#### Çevirmek gerekirse Programlanabilir Mantık Kapıları Dizilerinden oluşan Alana sahip entegre(birleşik) devrelerdir.Buradaki alan kelmesi aslında sahayı yani ürünü aldıktan sonra herhangi bir ortamda programlanableceğini gösterir.Sahada programlanabilen Kapı Dizileri.
 ##### Programlabilir demek,istediğimiz fonksiyonu(boolean) istediğimizle değiştirebileceğimiz anlamına ,onu programlayabileceğimiz,editleyebileceğimiz ve istediğimizi kaldırabileceğimiz anlamına gelir. 
 ##### Boolean Fonksiyonları nedir derseniz Girişler(Inputs) ve Çıkışları (Outputs) "1" ya da "0" değeri yani  ya hep ya hiç ya da True -False değeri alan fonksiyonlardır örnek olarak AND,OR ,NAND(NOT AND) ,NOR(Not OR) vb. verilebilir. 
 ##### Sayısal devrelerin analizinde ve sayısal devrelerin programlanmasında , bu fonksiyonlar ve döndükleri kapılar kullanılır. Sayısal devre dediğimiz de birden fazla girişle bir çıkışı alan,transistörler,diyotlar vb elektronik elemanlardan oluşan giriş ve çıkışların sayısal olarak/boolean belirtildiği devrelerdir.Anahtarlama devreleri olarak dediğimiz sonucu kesin olan devreler sayısal devrelerdir.Anahtarlama en basit haliyle örnek verecek olursam butonlar diyebilirim Açık:1 , Kapalı :0 outputları bu şekildedir,buna göre de Açıkken bilgisayar açılır,kapalıyken kapanır. 
